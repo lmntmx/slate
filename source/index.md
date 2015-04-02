@@ -1,5 +1,5 @@
 ---
-title: Recetatio Drupal...
+title: Recetatio Drupal
 
 language_tabs:
   - html
